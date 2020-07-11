@@ -4,3 +4,5 @@ I have done individually the asignment Recommender Systems via Matrix Factorizat
    
    1. BinaryClassificationMetrics API
    2. CrossValidator API
+   
+Implementation has been done in Scala.
